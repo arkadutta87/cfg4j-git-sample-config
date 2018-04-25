@@ -3,12 +3,12 @@ reksio:
   bornIn : Kolkata
   birthYear : 1987
   friends : 
-    - Kulbeer
-    - Anil
-    - Tapas
-    - Shalmoli
+   - Kulbeer
+   - Anil
+   - Tapas
+   - Shalmoli
   homepage : https://en.wikipedia.org/wiki/Arka_Dutta/
   grades : 
-    "Math" : 92
-    "PE" : 99
-    "Bengali" : 90
+   "Math" : 92
+   "PE" : 99
+   "Bengali" : 90
