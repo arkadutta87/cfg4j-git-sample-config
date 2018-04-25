@@ -1,11 +1,12 @@
 reksio:
-  awake: true
+  awake: false
   bornIn : Kolkata
   birthYear : 1987
   friends : 
     - Kulbeer
     - Anil
     - Tapas
+    - Shalmoli
   homepage : https://en.wikipedia.org/wiki/Reksio
   grades : 
     "Math" : 'A'
