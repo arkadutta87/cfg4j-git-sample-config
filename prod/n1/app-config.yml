@@ -1,1 +1,13 @@
-
+reksio:
+  awake: false
+  bornIn : Kolkata
+  birthYear : 1987
+  friends : 
+    - Kulbeer
+    - Anil
+    - Tapas
+  homepage : https://en.wikipedia.org/wiki/Reksio
+  grades : 
+    "Math" : 'A'
+    "PE" : 'A'
+    "Bengali" : 'A'
