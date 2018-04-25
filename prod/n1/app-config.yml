@@ -8,7 +8,7 @@ reksio:
    - Tapas
    - Shalmoli
   homepage : https://en.wikipedia.org/wiki/Arka_Dutta/
-  grades : 
-   "Math" : 92
-   "PE" : 99
-   "Bengali" : 90
+  points: 
+    Math : 92
+    PE : 99
+    Bengali : 90
