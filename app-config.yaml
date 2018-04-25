@@ -7,6 +7,6 @@ reksio:
     - Anil
   homepage : https://en.wikipedia.org/wiki/Reksio
   grades : 
-    Math : 'A'
-    PE : 'A'
-    Bengali : 'A'
+    "Math" : 'A'
+    "PE" : 'A'
+    "Bengali" : 'A'
