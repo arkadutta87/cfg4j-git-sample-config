@@ -6,7 +6,7 @@ books:
         name : "Arka Dutta"
         dateOfBirth: "1987-06-07"
         nationality : "Indian"
-       - id : 2
+      - id : 2
         name : "Abhilash Bhanukat Mandaliya"
         dateOfBirth: "1990-11-17"
         nationality : "Indian"
@@ -19,7 +19,7 @@ books:
         name : "Arka Dutta"
         dateOfBirth: "1987-06-07"
         nationality : "Indian"
-       - id : 2
+      - id : 2
         name : "Anish Singh"
         dateOfBirth: "1990-10-27"
         nationality : "Indian"
