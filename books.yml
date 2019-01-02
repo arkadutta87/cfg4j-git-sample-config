@@ -1,26 +1,27 @@
-books:
-  - id: 1
-    title : "Web Services with Drop-Wizard"
-    authors :
-      - id : 1
-        name : "Arka Dutta"
-        dateOfBirth: "1987-06-07"
-        nationality : "Indian"
-      - id : 2
-        name : "Abhilash Bhanukat Mandaliya"
-        dateOfBirth: "1990-11-17"
-        nationality : "Indian"
-    dateOfPublish : "2018-12-26"
+booksConfig: 
+  books:
+    - id: 1
+      title : "Web Services with Drop-Wizard"
+      authors :
+        - id : 1
+          name : "Arka Dutta"
+          dateOfBirth: "1987-06-07"
+          nationality : "Indian"
+        - id : 2
+          name : "Abhilash Bhanukat Mandaliya"
+          dateOfBirth: "1990-11-17"
+          nationality : "Indian"
+      dateOfPublish : "2018-12-26"
 
-  - id: 2
-    title : "Redis on Google Cloud Platform"
-    authors :
-      - id : 1
-        name : "Arka Dutta"
-        dateOfBirth: "1987-06-07"
-        nationality : "Indian"
-      - id : 2
-        name : "Anish Singh"
-        dateOfBirth: "1990-10-27"
-        nationality : "Indian"
-    dateOfPublish : "2018-12-25"
+    - id: 2
+      title : "Redis on Google Cloud Platform"
+      authors :
+        - id : 1
+          name : "Arka Dutta"
+          dateOfBirth: "1987-06-07"
+          nationality : "Indian"
+        - id : 2
+          name : "Anish Singh"
+          dateOfBirth: "1990-10-27"
+          nationality : "Indian"
+      dateOfPublish : "2018-12-25"
