@@ -4,8 +4,8 @@ booksConfig:
       title : "Web Services with Drop-Wizard"
       authors :
         - id : 1
-          name : "Arka Dutta"
-          dateOfBirth: "1987-06-07"
+          name : "Saumil Patel"
+          dateOfBirth: "1996-09-26"
           nationality : "Indian"
         - id : 2
           name : "Abhilash Bhanukat Mandaliya"
