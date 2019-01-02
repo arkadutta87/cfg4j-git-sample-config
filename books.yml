@@ -22,6 +22,6 @@ booksConfig:
           nationality : "Indian"
         - id : 2
           name : "Anish Singh"
-          dateOfBirth: "1990-10-27"
+          dateOfBirth: "1995-12-03"
           nationality : "Indian"
       dateOfPublish : "2018-12-25"
