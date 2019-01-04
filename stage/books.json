@@ -21,7 +21,7 @@
             },
             {
                 "id": 2,
-                "title": "Redis on Google Cloud Platform",
+                "title": "Redis Cluster on Google Cloud Platform",
                 "authors": [
                     {
                         "id": 1,
