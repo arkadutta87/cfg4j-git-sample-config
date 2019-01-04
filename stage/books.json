@@ -2,7 +2,7 @@
         "books": [
             {
                 "id": 1,
-                "title": "Web Services with Drop-Wizard",
+                "title": "Web Services with Drop-Wizard and Guice",
                 "authors": [
                     {
                         "id": 1,
